@@ -1,6 +1,7 @@
 #css{
     color: blue ;
     text-align: center;
+    
 }
 .logo{
     text-align: center
@@ -8,7 +9,15 @@
 .quote{
     text-align: center
 }
-#Skelety{
-    text-align: center;
-    color: red;
+
+#accordion{
+    text-align:center;
+}
+@media{ 
+    h1{
+        font-size: 80px
+    }
+}
+#copyright{
+    text-align: center
 }
